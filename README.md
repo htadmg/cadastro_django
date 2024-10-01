@@ -34,14 +34,14 @@ cd .\cadastro_django
 3. **Crie e Ative um Ambiente Virtual (opcional, mas recomendado)**
 - **Para Linux/MacOS:**
 ```bash
-python -m venv venv
-source venv/bin/activate
+python -m .venv venv
+source .venv/bin/activate
 ```
 
 - **Para Windows:**
 ```powershell
-python -m venv venv
-.\venv\Scripts\Activate.ps1
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
 ```   
 3. **Instale as dependências**
 ```bash
