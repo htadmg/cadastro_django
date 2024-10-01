@@ -50,16 +50,11 @@ pip install -r requirements.txt
 ## Configuração do Banco de Dados
 
 Aplique as migrações para configurar o banco de dados:
-
+```bash
+cd .\cad_user\
+```
 ```bash
 python manage.py migrate
-```
-
-### Criação de Superusuário
-
-Para acessar o painel administrativo, crie um superusuário:
-```bash
-python manage.py createsuperuser
 ```
 
 ### Iniciar o Servidor de Desenvolvimento
