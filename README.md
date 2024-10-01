@@ -6,7 +6,7 @@ Este projeto é uma aplicação simples em Django que permite o cadastro e lista
 ## Funcionalidades
 - Cadastro de usuários com nome e idade.
 - Exibição da lista de usuários cadastrados com ID, nome e idade.
-- 
+  
 ## Tecnologias Usadas
 - **Python**: Linguagem de programação usada para construir o backend.
 - **Django**: Framework web usado para construir o servidor e o gerenciamento de dados.
