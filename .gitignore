@@ -4879,3 +4879,4 @@
 /.idea/cadastro_django.iml
 /.idea/modules.xml
 /.idea/vcs.xml
+db.sqlite3
