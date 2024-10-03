@@ -13,7 +13,7 @@ Este projeto é uma aplicação simples em Django que permite o cadastro e lista
 - **Bootstrap**: Framework de front-end usado para criar uma interface de usuário responsiva e estilizada.
 - **HTML/CSS**: Linguagens de marcação e estilo usadas para construir e estilizar a interface do usuário.
 
-  ## Como Configurar o Projeto
+## Como Configurar o Projeto
 
 Para executar este projeto localmente, siga os passos abaixo:
 
@@ -31,7 +31,7 @@ git clone git@github.com:htadmg/cadastro_django.git
 cd .\cadastro_django
 ```
    
-3. **Crie e Ative um Ambiente Virtual (opcional, mas recomendado)**
+2. **Crie e Ative um Ambiente Virtual (opcional, mas recomendado)**
 - **Para Linux/MacOS:**
 ```bash
 python -m .venv venv
